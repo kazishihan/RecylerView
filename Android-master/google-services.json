@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "889076677144",
+    "firebase_url": "https://dclean-b69ee.firebaseio.com",
+    "project_id": "dclean-b69ee",
+    "storage_bucket": "dclean-b69ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889076677144:android:d020bc09183afb5d",
+        "android_client_info": {
+          "package_name": "com.kazishihan.dclean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889076677144-ol69phfp0qtvtdtn0saej59o78nl6a8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDamf-kvy94m-CnTVaisbL9dOQ39w1nXL4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
